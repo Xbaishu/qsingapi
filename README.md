@@ -1,8 +1,8 @@
 ---
-title: XQSign
-emoji: 🦀
-colorFrom: pink
-colorTo: indigo
+title: QSign
+emoji: 💻
+colorFrom: gray
+colorTo: gray
 sdk: docker
 pinned: false
 ---
